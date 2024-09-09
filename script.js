@@ -16,8 +16,8 @@ const hasil = angka(angkainput);
 
 console.log("");
 console.log("Soal pertama");
-console.log("inputan  =", angkainput);
-console.log("hasilnya  =", hasil);
+console.log(angkainput);
+console.log(hasil);
 
 //soal kedua
 
@@ -26,8 +26,8 @@ const hasil2 = angka(angkainput2);
 
 console.log("");
 console.log("Soal kedua");
-console.log("inputan =", angkainput2);
-console.log("hasilnya  =", hasil2);
+console.log(angkainput2);
+console.log(hasil2);
 
 //soal ketiga
 
@@ -36,8 +36,8 @@ const hasil3 = angka(angkainput3);
 
 console.log("");
 console.log("Soal ketiga");
-console.log("inputan =", angkainput3);
-console.log("hasilnya =", hasil3);
+console.log(angkainput3);
+console.log(hasil3);
 
 //soal keempat
 
@@ -46,5 +46,5 @@ const hasil4 = angka(angkainput4);
 
 console.log("");
 console.log("Soal keempat");
-console.log("inputan =", angkainput4);
-console.log("hasilnya =", hasil4);
+console.log(angkainput4);
+console.log(hasil4);
